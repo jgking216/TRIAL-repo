@@ -1,2 +1,4 @@
 # TRIAL-repo
-connect github and rstudioe
+connect github and rstudio
+this is a line from Rstudio
+
